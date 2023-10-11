@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "# Petfinder",
   "main": "index.js",
   "scripts": {
     "test": "jest --watch",
@@ -16,4 +16,5 @@
     "nodemon": "^2.0.20",
     "supertest": "^6.3.3"
   }
+  
 }
